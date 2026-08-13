@@ -4,6 +4,11 @@ An intelligent travel planning application built using **LangGraph**, **Groq LLM
 
 The system automatically creates personalized travel plans by coordinating multiple AI agents responsible for flights, hotels, weather, visa requirements, attractions, budgeting, and itinerary generation.
 
+
+## 🚀 Live Demo
+
+👉 [Try the Multi-Agent Travel Planner](https://multi-agents-travel-planner.streamlit.app/)
+
 ---
 
 # 🚀 Features
